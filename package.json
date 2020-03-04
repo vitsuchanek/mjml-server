@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "fastify": "^2.11.1",
-    "mjml": "^4.6.0"
+    "fastify": "^2.12.1",
+    "mjml": "^4.6.1"
   }
 }
